@@ -1,6 +1,6 @@
 # CSV JSON Reader
 
-A GUI which shows reads a CSV/JSON and displays the data.
+A GUI which reads a CSV/JSON and displays the data.
 
 <p float="center">
   <img src="img/demo1.png" width="439"/>
